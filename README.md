@@ -11,6 +11,7 @@ A Python command-line quiz game inspired by "Kaun Banega Crorepati."
 
 ## How to run
 python3 "KBCQUIZ GAME.py"
+python3 "kbc.py"
 
 ## What I learned
 Started as a deeply nested if-else script kbc.py, then refactored it into a loop-based
